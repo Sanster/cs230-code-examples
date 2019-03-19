@@ -1,3 +1,6 @@
+updates:
+- 2019-03-19：work in pytorch 1.0; add ner dataset;
+
 # Named Entity Recognition with PyTorch
 
 *Authors: Surag Nair, Guillaume Genthial and Olivier Moindrot*

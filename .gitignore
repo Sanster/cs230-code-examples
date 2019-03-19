@@ -104,3 +104,10 @@ venv.bak/
 .mypy_cache/
 .idea/
 *.DS_Store
+dataset_params.json
+tags.txt
+words.txt
+
+pytorch/nlp/data/kaggle/test/
+pytorch/nlp/data/kaggle/val/
+pytorch/nlp/data/kaggle/train/
